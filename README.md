@@ -6,8 +6,6 @@
 
 In the context of terrorism, reports and articles often contain extensive, unstructured text that is challenging to analyze and cross-reference in an automated manner. For instance, articles about a single terror incident might arrive at different times throughout the day, each with varying details. These reports typically include crucial entities such as _persons, objects, locations, and events_.
 
-<br>
-
 #### **Goals**
 
 1. Extract entities from these reports and represent them in a structured knowledge graph.
@@ -16,7 +14,7 @@ In the context of terrorism, reports and articles often contain extensive, unstr
 ## Our Solution
 
 <p align="center">
-<img src="./logo.png" alt="TerrorViz" width="200"/>
+<img src="./assets/logo.png" alt="TerrorViz" width="200"/>
 </p>
 In an age where timely and accurate information is crucial, our solution revolutionizes how you handle the influx of articles related to terror events. Our cutting-edge system streamlines and enhances the process of extracting critical insights from a deluge of incoming reports.
 
@@ -27,3 +25,7 @@ For retrieval, we deploy a **Multi-agent LLM system** designed to excel in the h
 Our solution transforms the overwhelming influx of terror-related articles into clear, actionable intelligence, empowering security professionals and decision-makers to respond swiftly and effectively. Stay informed, stay prepared, and make critical decisions with confidence.
 
 ## Schema of this Document
+
+> [construct_kgraph.ipynb](https://github.com/Project-Hackathons/LifeHack2024/blob/main/construct_kgraph.ipynb) Documents how to constructing the knowledge Graph
+
+> [retrival.ipynb](https://github.com/Project-Hackathons/LifeHack2024/blob/main/retrival.ipynb) Documents how to query the Knowledge Graph
