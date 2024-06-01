@@ -29,3 +29,7 @@ Our solution transforms the overwhelming influx of terror-related articles into 
 > [construct_kgraph.ipynb](https://github.com/Project-Hackathons/LifeHack2024/blob/main/construct_kgraph.ipynb) Documents how to constructing the knowledge Graph
 
 > [retrival.ipynb](https://github.com/Project-Hackathons/LifeHack2024/blob/main/retrival.ipynb) Documents how to query the Knowledge Graph
+
+## Watch our video!
+
+[![LifeHack2024](/assets/logo_blackbg.png)](https://www.youtube.com/watch?v=JBG5-A4jyVk)
